@@ -7,8 +7,6 @@
     <img src="images/dev-working_rounded.gif" alt="Workspace"  width="40%"/><br> 
 </h1>
 
-![Visitor Count](https : //profile-counter.glitch.me/enriquejavaloyes/count.svg)
-
 
 ## 💬 About
 - Bachelor's degree in Business Intelligence & Analytics from the University of Valencia (UV)
