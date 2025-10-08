@@ -24,5 +24,5 @@
 - etc...
 
 <h4 align="center">
-  <code><a href="https://www.linkedin.com/in/enrique-javaloyes-moreno-948222220" title="LinkedIn Profile"><img width="50" src="images\linkedin-svgrepo-com.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/enrique-javaloyes-moreno/" title="LinkedIn Profile"><img width="50" src="images\linkedin-svgrepo-com.svg"> LinkedIn</a></code>
 </h4>
